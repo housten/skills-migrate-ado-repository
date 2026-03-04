@@ -7,3 +7,5 @@ ado_repository_name: "MigrateFromADORepo"
 
 ado_url: "https://dev.azure.com/solidifydemo"
 
+github_org: "EficodeDemoOrg"
+target_github_repo_name: "migrated-repo-deleteable"
